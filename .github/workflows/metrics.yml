@@ -22,7 +22,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Nairobi
-          config_order: base.header, isocalendar, languages, habits
+          config_order: base.header, isocalendar, languages
           
           # Isometric 3D commit calendar
           plugin_isocalendar: yes
@@ -35,12 +35,8 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used
           
-          # Habits and commit telemetry
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # Lines of code
+          plugin_lines: yes
           
           # Output configuration
           filename: github-metrics.svg
