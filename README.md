@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,50:111827,100:0f172a&height=190&section=header&text=Rexkelly%20Muhoro%20Njoroge&fontSize=36&fontColor=38bdf8&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Agentic%20Systems&descSize=17&descAlignY=62&descAlign=50" width="100%" alt="Rexkelly Muhoro Njoroge Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,50:111827,100:0f172a&height=200&section=header&text=Rexkelly%20Muhoro%20Njoroge&fontSize=38&fontColor=38bdf8&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Agentic%20Systems&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Rexkelly Muhoro Njoroge Header" />
 
 <!-- Dynamic Typing Subhead -->
 <a href="https://github.com/kelly26ici">
@@ -9,11 +9,18 @@
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Architecture-Agentic%20Systems%20%26%20RAG-6366f1?style=flat-square&logo=diagram-next&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Environment-Arch%20Linux%20%C2%B7%20Neovim%20%C2%B7%20Hyprland-10b981?style=flat-square&logo=archlinux&logoColor=white" alt="Environment" />
-  <a href="https://wa.me/254794582488"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://github.com/kelly26ici"><img src="https://img.shields.io/badge/GitHub-kelly26ici-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/kelly26ici"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://wa.me/254794582488"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <img src="https://img.shields.io/badge/Nairobi-Kenya-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+</p>
+
+<!-- Technology Icon Strip -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,postgres,redis,docker,linux,arch,neovim,git,github,bash" alt="Tech Stack Icons" />
+  </a>
 </p>
 
 </div>
@@ -79,39 +86,115 @@ flowchart LR
 
 ---
 
-### 🛠️ Core Stack
+### 🛠️ Core Stack & Technologies
+
+#### AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+#### Agent Engineering
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge&logo=diagram-next&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Deep_Agents-6366F1?style=for-the-badge&logo=probot&logoColor=white" alt="Deep Agents" />
+  <img src="https://img.shields.io/badge/Tool_Calling-0EA5E9?style=for-the-badge&logo=wrench&logoColor=white" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/MCP_Protocol-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Agent_Memory-10B981?style=for-the-badge&logo=ram&logoColor=white" alt="Agent Memory" />
+</p>
+
+#### Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+</p>
+
+#### Data / Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=target&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+#### Environment
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Fish_Shell-4AA9FF?style=for-the-badge&logo=fish&logoColor=white" alt="Fish Shell" />
+  <img src="https://img.shields.io/badge/Hyprland-00A5FF?style=for-the-badge&logo=wayland&logoColor=white" alt="Hyprland" />
+</p>
+
+---
+
+### 📂 Featured Repositories
 
 <table>
-  <tr>
-    <td width="26%"><strong>AI / ML</strong></td>
-    <td>
-      <code>Python</code> · <code>PyTorch</code> · <code>Transformers</code> · <code>LLMs</code> · <code>NLP</code> · <code>RAG</code> · <code>Embeddings</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Agent Engineering</strong></td>
-    <td>
-      <code>LangChain</code> · <code>LangGraph</code> · <code>Deep Agents</code> · <code>Tool Calling</code> · <code>MCP (Model Context Protocol)</code> · <code>Agent Memory</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend &amp; APIs</strong></td>
-    <td>
-      <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Supabase</code> · <code>Redis</code> · <code>REST APIs</code> · <code>Asyncio</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data / Infrastructure</strong></td>
-    <td>
-      <code>Qdrant</code> · <code>Docker</code> · <code>Linux</code> · <code>Git</code> · <code>GitHub Actions</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Environment</strong></td>
-    <td>
-      <code>Arch Linux</code> · <code>Neovim</code> · <code>Fish Shell</code> · <code>Hyprland</code>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>System Role & Description</th>
+      <th>Stack</th>
+      <th>Stars / Forks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://github.com/kelly26ici/Jarvis">Jarvis</a></strong></td>
+      <td>Autonomous assistant agent with dynamic tool execution, planning loops, and multi-step reasoning.</td>
+      <td><code>Python</code> · <code>LLMs</code> · <code>Tool Calling</code></td>
+      <td>
+        <img src="https://img.shields.io/github/stars/kelly26ici/Jarvis?style=flat-square&color=38bdf8" />
+        <img src="https://img.shields.io/github/forks/kelly26ici/Jarvis?style=flat-square&color=818cf8" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/kelly26ici/Simon">Simon</a></strong></td>
+      <td>Interactive AI system executing contextual tasks, multi-turn dialogue, and autonomous workflows.</td>
+      <td><code>Python</code> · <code>LangChain</code> · <code>Voice/AI</code></td>
+      <td>
+        <img src="https://img.shields.io/github/stars/kelly26ici/Simon?style=flat-square&color=38bdf8" />
+        <img src="https://img.shields.io/github/forks/kelly26ici/Simon?style=flat-square&color=818cf8" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/kelly26ici/business-chatbot">Business Chatbot</a></strong></td>
+      <td>Enterprise conversational RAG chatbot connecting knowledge retrieval to business workflows.</td>
+      <td><code>Python</code> · <code>RAG</code> · <code>FastAPI</code></td>
+      <td>
+        <img src="https://img.shields.io/github/stars/kelly26ici/business-chatbot?style=flat-square&color=38bdf8" />
+        <img src="https://img.shields.io/github/forks/kelly26ici/business-chatbot?style=flat-square&color=818cf8" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/kelly26ici/diabetes-api">Diabetes API</a></strong></td>
+      <td>Production-grade machine learning inference API with validation schemas and low-latency endpoints.</td>
+      <td><code>FastAPI</code> · <code>Scikit-Learn</code> · <code>Docker</code></td>
+      <td>
+        <img src="https://img.shields.io/github/stars/kelly26ici/diabetes-api?style=flat-square&color=38bdf8" />
+        <img src="https://img.shields.io/github/forks/kelly26ici/diabetes-api?style=flat-square&color=818cf8" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/kelly26ici/diabetes_predictor-streamlit">Diabetes Predictor</a></strong></td>
+      <td>Fullstack interactive machine learning web interface for clinical risk classification.</td>
+      <td><code>Streamlit</code> · <code>Python</code> · <code>ML</code></td>
+      <td>
+        <img src="https://img.shields.io/github/stars/kelly26ici/diabetes_predictor-streamlit?style=flat-square&color=38bdf8" />
+        <img src="https://img.shields.io/github/forks/kelly26ici/diabetes_predictor-streamlit?style=flat-square&color=818cf8" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
@@ -159,7 +242,7 @@ focus = {
 <div align="center">
 
 <!-- Generated via lowlighter/metrics automated workflow -->
-<img src="./github-metrics.svg" width="100%" alt="Rexkelly's Engineering Metrics" onerror="this.style.display='none'" />
+<img src="./github-metrics.svg" width="100%" alt="Rexkelly's Engineering Metrics" />
 
 <br/>
 
