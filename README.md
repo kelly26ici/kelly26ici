@@ -150,12 +150,12 @@ flowchart LR
   </thead>
   <tbody>
     <tr>
-      <td><strong><a href="https://github.com/kelly26ici/Jarvis">Jarvis</a></strong></td>
-      <td>Autonomous assistant agent with dynamic tool execution, planning loops, and multi-step reasoning.</td>
-      <td><code>Python</code> · <code>LLMs</code> · <code>Tool Calling</code></td>
+      <td><strong><a href="https://github.com/kelly26ici/Dreamhomesellers">LUXONN</a></strong> <sub>(dreamhomesellers)</sub></td>
+      <td>Kenya-focused premium property marketplace — Next.js 16 + Supabase, embedded Simon AI concierge for grounded property decisions.</td>
+      <td><code>Next.js</code> · <code>TypeScript</code> · <code>Supabase</code> · <code>AI Agent</code></td>
       <td>
-        <img src="https://img.shields.io/github/stars/kelly26ici/Jarvis?style=flat-square&color=38bdf8" />
-        <img src="https://img.shields.io/github/forks/kelly26ici/Jarvis?style=flat-square&color=818cf8" />
+        <img src="https://img.shields.io/github/stars/kelly26ici/Dreamhomesellers?style=flat-square&color=38bdf8" />
+        <img src="https://img.shields.io/github/forks/kelly26ici/Dreamhomesellers?style=flat-square&color=818cf8" />
       </td>
     </tr>
     <tr>
@@ -186,12 +186,12 @@ flowchart LR
       </td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/kelly26ici/diabetes_predictor-streamlit">Diabetes Predictor</a></strong></td>
-      <td>Fullstack interactive machine learning web interface for clinical risk classification.</td>
-      <td><code>Streamlit</code> · <code>Python</code> · <code>ML</code></td>
+      <td><strong><a href="https://github.com/kelly26ici/portfolio">Portfolio</a></strong></td>
+      <td>Personal engineering portfolio — Next.js 16 / React 19, 3D neural visualisation, and a built-in AI assistant that answers questions about the projects.</td>
+      <td><code>Next.js</code> · <code>TypeScript</code> · <code>Three.js</code> · <code>Motion</code></td>
       <td>
-        <img src="https://img.shields.io/github/stars/kelly26ici/diabetes_predictor-streamlit?style=flat-square&color=38bdf8" />
-        <img src="https://img.shields.io/github/forks/kelly26ici/diabetes_predictor-streamlit?style=flat-square&color=818cf8" />
+        <img src="https://img.shields.io/github/stars/kelly26ici/portfolio?style=flat-square&color=38bdf8" />
+        <img src="https://img.shields.io/github/forks/kelly26ici/portfolio?style=flat-square&color=818cf8" />
       </td>
     </tr>
   </tbody>
